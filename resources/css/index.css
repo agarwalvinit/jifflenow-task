@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+}
+html, body {
+    height: 100%;
+}
+body {
+    min-height: 100%;
+    box-sizing: border-box;
+    background: #127055;
+    border: 30px solid #693219;
+}

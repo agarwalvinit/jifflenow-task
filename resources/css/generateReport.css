@@ -1,0 +1,9 @@
+.report-container {
+    text-align: center;
+    font-size: 18px;
+
+}
+.report-container .report-block {
+    font-size: 14px;
+    margin-top: 20px;
+}

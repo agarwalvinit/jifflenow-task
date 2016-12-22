@@ -1,0 +1,29 @@
+{
+  "name": "jifflenow",
+  "version": "1.0.0",
+  "description": "jifflenow puzzle task",
+  "main": "index.js",
+  "dependencies": {
+    "babel-loader": "^6.2.3",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-react": "^6.5.0",
+    "babelify": "^7.2.0",
+    "css": "^2.2.1",
+    "css-loader": "^0.23.1",
+    "lodash": "^4.5.1",
+    "react": "^0.14.7",
+    "react-addons-css-transition-group": "^0.14.7",
+    "react-addons-shallow-compare": "^0.14.7",
+    "react-addons-update": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "react-router": "^2.6.0",
+    "style": "0.0.3",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vinit agarwal",
+  "license": "ISC"
+}
